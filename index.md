@@ -1,3 +1,12 @@
-# Welcome to my blog
+## Hi, I'm __HOAGSS__
+#### Welcome to my Github repo.
+##### Todo lists
+1.  create an app.
+2.  Publish it
 
-I'm glad you are here. I plan to talk about ...
+*my github username is* 
+@hoagss
+
+##### emojies
+:smile:
+:angry:
